@@ -1,2 +1,2 @@
 # edulite-landing
-Phase 0 skeleton. (Belum ada kode fitur; hanya fondasi & governance.)
+Phase 0 skeleton. (Test CI dummy 2025-08-19)
